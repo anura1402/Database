@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "521551441336",
+    "firebase_url": "https://fir-e8e8b-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "fir-e8e8b",
+    "storage_bucket": "fir-e8e8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521551441336:android:58fc5462ad655a19d2f34d",
+        "android_client_info": {
+          "package_name": "com.anura.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521551441336-o6u7j19p3gssvoff7cfc84c6n623r5jq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1Ge2J-hmBsdcpYpBU669tfMWdbE51R68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521551441336-o6u7j19p3gssvoff7cfc84c6n623r5jq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

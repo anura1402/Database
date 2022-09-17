@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Firebase</string>
+    <string name="my_app">Register App</string>
+    <string name="auth_text">Войдите в свою учетную запись</string>
+    <string name="btnRegister">Зарегистрироваться</string>
+    <string name="btnSignIn">Войти</string>
+</resources>
